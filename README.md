@@ -1,4 +1,4 @@
-# Proxy Server Cyberpunk Animation
+# Proxy Server Animation
 
 An interactive, cyberpunk-themed visualization explaining how proxy servers work. This single HTML file creates an animated explanation of proxy server functionality with a sleek, neon-styled interface.
 

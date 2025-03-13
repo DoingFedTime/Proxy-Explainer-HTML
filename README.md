@@ -68,7 +68,7 @@ MIT License - See LICENSE file for details.
 
 ## Credits
 
-Created by [Your Name] for educational purposes.
+Created by Sam Bent for educational purposes (first use in youtube.com/@sam_bent ).
 
 ---
 
